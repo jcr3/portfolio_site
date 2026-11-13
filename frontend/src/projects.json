@@ -251,6 +251,22 @@
       },
       {
         "id": 17,
+        "title": "House of Snow",
+        "slug": "HoS",
+        "category": "Visual Art",
+        "date": "2026",
+        "description": "A zine based on the Breadstain song House of Snow. Digitally sketched and inked.",
+        "resources": [
+          "/art/zine/zine_pic.jpg",
+          "/art/zine/page_1.png",
+          "/art/zine/page_2.png",
+          "/art/zine/page_3.png",
+          "/art/zine/page_4-5.png",
+          "/art/zine/printable.png"
+        ]
+      },
+      {
+        "id": 18,
         "title": "Tugboat",
         "slug": "tugboat",
         "category": "Visual Art",
@@ -261,7 +277,7 @@
         ]
       },
       {
-        "id": 18,
+        "id": 19,
         "title": "Life Drawing 1",
         "slug": "ld1",
         "category": "Visual Art",
@@ -269,17 +285,6 @@
         "description": "A drawing done at the university life drawing society.",
         "resources": [
           "/art/ld_9.jpg"
-        ]
-      },
-      {
-        "id": 19,
-        "title": "Comic",
-        "slug": "comic",
-        "category": "Visual Art",
-        "date": "2026",
-        "description": "The first page of a planned 10 page comic teaser. Digitally inked.",
-        "resources": [
-          "/art/page_1.jpg"
         ]
       },
       {
