@@ -276,17 +276,14 @@ onMounted(async () => {
                 
                 <div class="overlay-section" style="display: flex; flex-direction: column; align-items: end; padding-top: 1em;">
                     <p id="about-text-1" style="text-align: right; max-width: 30em;">
-                        JC Redmond III is a multidisciplinary artist and designer with expertise in <i>product design & prototyping</i>, <i>software develoment</i>, 
+                        JC Redmond III is a multidisciplinary artist and designer with interest in <i>product/prop design & prototyping</i>, 
                         <i>painting & drawing</i>, <i>music</i>, and <i>film</i> - particullarly when they align with one of his many hobbies.
-                        <br><br>
-                        <i>Originally from Atlanta, Ga he has been based in Glasgow, Scotland since 2020.</i>
                     </p>
                 </div>
                 <br>
                 <div class="overlay-section" style="display: flex; flex-direction: column; align-items: start;">
                     <p id="about-text-2" style="max-width: 25em;">
-                        In 2024 he graduated from the University of Glasgow with a <i>First Class BEng Mechatronics</i> degree, along with awards from the
-                        <i>Hammermen of Glasgow</i> and the <i>IMechE</i>, and is currently working as a <i>Sr. R&D Engineer</i> at Synopsys.
+                        Originally from <i>Atlanta, Ga</i> he has been based in <i>Glasgow, Scotland</i> since 2020.
                     </p>
                 </div>                
             </div>
@@ -318,7 +315,7 @@ onMounted(async () => {
                     width="32px"
                 >
                 <p>
-                    email: sanctusspes@gmail.com
+                    email: <a href="mailto:jc@jc3.red" style="color: var(--bg-color);">jc@jc3.red</a>
                 </p>
                 <a target="_blank" rel="noopener noreferrer" href="https://github.com/jcr3/portfolio_site" style="color: var(--bg-color);">Site Source Code</a>
                 <p>
